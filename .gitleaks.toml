@@ -1,0 +1,15 @@
+# gitleaks configuration — local secret scanning.
+#
+# Its presence satisfies `paniolo scan`'s `secret-scanning-configured` rule.
+#
+# Install the scanner to activate real enforcement:
+#   winget install gitleaks   (or: scoop install gitleaks)
+# Docs: https://github.com/gitleaks/gitleaks
+
+title = "tibetan-calendar-wiki gitleaks config"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Global allowlisted paths (non-secret fixtures)."

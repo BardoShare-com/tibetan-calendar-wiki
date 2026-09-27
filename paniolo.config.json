@@ -1,0 +1,6 @@
+{
+	"rules": {
+		"dead-code": "off",
+		"high-impact-action-confirmation": "off"
+	}
+}
