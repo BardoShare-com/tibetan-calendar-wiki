@@ -11,12 +11,7 @@ sources:
 
 # Ḍākinī Day
 
-The **25th lunar day** of each Tibetan month is **Ḍākinī Day** (Tib.
-`mkha' 'gro ma'i dus` མཁའ་འགྲོ་མའི་དུས་, "the time of the ḍākinīs"; also
-`mkha' 'gro dus chen` མཁའ་འགྲོ་དུས་ཆེན་ when emphasized as a feast day). It is
-the monthly holy day associated with the ḍākinīs (`mkha' 'gro ma`
-མཁའ་འགྲོ་མ་, "sky-goers") and is used for `tshogs` ཚོགས་ (gaṇacakra feast)
-offerings in Vajrayāna traditions.
+The **25th lunar day** of each Tibetan month is **Ḍākinī Day** (Tib. `mkha' 'gro ma'i dus` མཁའ་འགྲོ་མའི་དུས་, "the time of the ḍākinīs"; also `mkha' 'gro dus chen` མཁའ་འགྲོ་དུས་ཆེན་ when emphasized as a feast day). It is the monthly holy day associated with the ḍākinīs (`mkha' 'gro ma` མཁའ་འགྲོ་མ་, "sky-goers") and is used for `tshogs` ཚོགས་ (gaṇacakra feast) offerings in Vajrayāna traditions.
 
 ## Key Terms
 
@@ -29,11 +24,7 @@ offerings in Vajrayāna traditions.
 
 ## Placement in the Month
 
-Ḍākinī day falls on `tshes nyi shu rtsa lnga` ཚེས་ཉི་ཤུ་རྩ་ལྔ་, the 25th of
-the lunar month, complementing the 10th ([[tibetan-guru-rinpoche-day]]) and
-the other monthly holy days. Its observance is a matter of Vajrayāna custom
-rather than a civil-calendar rule; some calendars print it as a flagged holy
-day.
+Ḍākinī day falls on `tshes nyi shu rtsa lnga` ཚེས་ཉི་ཤུ་རྩ་ལྔ་, the 25th of the lunar month, complementing the 10th ([[tibetan-guru-rinpoche-day]]) and the other monthly holy days. Its observance is a matter of Vajrayāna custom rather than a civil-calendar rule; some calendars print it as a flagged holy day.
 
 ## See Also
 

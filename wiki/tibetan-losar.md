@@ -11,11 +11,7 @@ sources:
 
 # Losar (Tibetan New Year)
 
-**Losar** (Tib. `lo gsar` ལོ་གསར་, "new year"; Ch. Zànglì xīnnián 藏历新年 /
-Luòsà 洛萨) is the Tibetan New Year, celebrated from the first day of the
-first Tibetan month. Festivities traditionally extend for around two weeks,
-merging into the Great Prayer Festival ([[tibetan-monlam-chenmo]] `smon lam
-chen mo` སྨོན་ལམ་ཆེན་མོ་).
+**Losar** (Tib. `lo gsar` ལོ་གསར་, "new year"; Ch. Zànglì xīnnián 藏历新年 / Luòsà 洛萨) is the Tibetan New Year, celebrated from the first day of the first Tibetan month. Festivities traditionally extend for around two weeks, merging into the Great Prayer Festival ([[tibetan-monlam-chenmo]] `smon lam chen mo` སྨོན་ལམ་ཆེན་མོ་).
 
 ## Key Terms
 
@@ -27,30 +23,18 @@ chen mo` སྨོན་ལམ་ཆེན་མོ་).
 
 ## Timing and Traditions
 
-Losar falls on the first day of the first month of the Tibetan lunisolar
-calendar. Because the Tibetan calendar is computed independently (see
-[[tibetan-chinese-relation]]), Losar usually falls near the Chinese Lunar New
-Year - often on the same day or within about a month - but the two are not
-guaranteed to coincide.
+Losar falls on the first day of the first month of the Tibetan lunisolar calendar. Because the Tibetan calendar is computed independently (see [[tibetan-chinese-relation]]), Losar usually falls near the Chinese Lunar New Year - often on the same day or within about a month - but the two are not guaranteed to coincide.
 
-Traditions vary: different Tibetan regions and lineages have observed New Year
-on different dates (for example the farmers' New Year, `so nam lo gsar`
-སོ་ནམ་ལོ་གསར་, in some areas), and the Tsurphu (`mtshur phu` མཚུར་ཕུ་)
-calendar tradition can yield a different date from the standard Phukpa
-(`phug pa` ཕུག་པ་) calculation.
+Traditions vary: different Tibetan regions and lineages have observed New Year on different dates (for example the farmers' New Year, `so nam lo gsar` སོ་ནམ་ལོ་གསར་, in some areas), and the Tsurphu (`mtshur phu` མཚུར་ཕུ་) calendar tradition can yield a different date from the standard Phukpa (`phug pa` ཕུག་པ་) calculation.
 
 ## Observance
 
-Traditional observances, described in the sources as custom rather than fixed
-rule, include:
+Traditional observances, described in the sources as custom rather than fixed rule, include:
 
 - House cleaning and offerings before the New Year.
-- The `gutor` དགུ་གཏོར་ rites on the 29th day of the last month, expelling
-  obstacles of the old year.
-- Prayers, visits, and the eating of `kha bse`/`khapse` ཁ་ཟས་ (New Year
-  biscuits) during the first days.
-- The `smon lam` སྨོན་ལམ་ (prayer) period following Losar; see
-  [[tibetan-monlam-chenmo]].
+- The `gutor` དགུ་གཏོར་ rites on the 29th day of the last month, expelling obstacles of the old year.
+- Prayers, visits, and the eating of `kha bse`/`khapse` ཁ་ཟས་ (New Year biscuits) during the first days.
+- The `smon lam` སྨོན་ལམ་ (prayer) period following Losar; see [[tibetan-monlam-chenmo]].
 
 ## See Also
 

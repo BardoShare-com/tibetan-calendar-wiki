@@ -11,13 +11,7 @@ sources:
 
 # Lhabab Düchen
 
-**Lhabab Düchen** (Tib. `lha bab dus chen` ལྷ་བབས་དུས་ཆེན་, "the great
-occasion of the descent from the gods' [realm]"; Ch. Tiánjiàng jié 天降节) is
-one of the four great Tibetan Buddhist festivals. It falls on the **22nd day
-of the 9th Tibetan month** and commemorates the Buddha Śākyamuni's
-(`shAkya thub pa` ཤཱཀྱ་ཐུབ་པ་) descent from the Trāyastriṃśa heaven (`sum
-cu rtsa gsum` སུམ་ཅུ་རྩ་གསུམ་, "the Thirty-Three"), where tradition holds he
-had gone to teach his mother.
+**Lhabab Düchen** (Tib. `lha bab dus chen` ལྷ་བབས་དུས་ཆེན་, "the great occasion of the descent from the gods' [realm]"; Ch. Tiánjiàng jié 天降节) is one of the four great Tibetan Buddhist festivals. It falls on the **22nd day of the 9th Tibetan month** and commemorates the Buddha Śākyamuni's (`shAkya thub pa` ཤཱཀྱ་ཐུབ་པ་) descent from the Trāyastriṃśa heaven (`sum cu rtsa gsum` སུམ་ཅུ་རྩ་གསུམ་, "the Thirty-Three"), where tradition holds he had gone to teach his mother.
 
 ## Key Terms
 
@@ -30,10 +24,7 @@ had gone to teach his mother.
 
 ## Observance
 
-Merit is traditionally held to be multiplied on this day; customary
-observances include pilgrimage, repainting and cleaning temples and stupas,
-and offerings. The story it commemorates belongs to Buddhist legend and is
-presented here as tradition.
+Merit is traditionally held to be multiplied on this day; customary observances include pilgrimage, repainting and cleaning temples and stupas, and offerings. The story it commemorates belongs to Buddhist legend and is presented here as tradition.
 
 ## See Also
 

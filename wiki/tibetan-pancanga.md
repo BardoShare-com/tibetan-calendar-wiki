@@ -12,11 +12,7 @@ sources:
 
 # The Five Calendar Components (Pañcāṅga)
 
-Each day of the Tibetan calendar is characterized by **five components**
-(Skt. *pañcāṅga*, "five limbs"; Tib. `yan lag lnga` ཡན་ལག་ལྔ་ or `lnga
-bsdus` ལྔ་བསྡུས་; Ch. wǔzhī 五支). These are shared with Indian calendrical
-astronomy and were transmitted to Tibet through the Kālacakra (`dus kyi 'khor
-lo` དུས་ཀྱི་འཁོར་ལོ་) system.
+Each day of the Tibetan calendar is characterized by **five components** (Skt. *pañcāṅga*, "five limbs"; Tib. `yan lag lnga` ཡན་ལག་ལྔ་ or `lnga bsdus` ལྔ་བསྡུས་; Ch. wǔzhī 五支). These are shared with Indian calendrical astronomy and were transmitted to Tibet through the Kālacakra (`dus kyi 'khor lo` དུས་ཀྱི་འཁོར་ལོ་) system.
 
 ## The Five Components
 
@@ -30,23 +26,14 @@ lo` དུས་ཀྱི་འཁོར་ལོ་) system.
 
 ## Details
 
-- **Weekdays** (`res gza'` རེས་གཟའ་) name the natural days (`nyin zhag`
-  ཉིན་ཞག་, mean daybreak to mean daybreak) after the seven classical planets.
-- **Lunar days** (`tshes` ཚེས་) divide the lunation by *angle*, not time:
-  the first lunar day runs from exact new moon until the Moon-Sun elongation
-  reaches 12°, and so on. See [[tibetan-lunar-phases]].
+- **Weekdays** (`res gza'` རེས་གཟའ་) name the natural days (`nyin zhag` ཉིན་ཞག་, mean daybreak to mean daybreak) after the seven classical planets.
+- **Lunar days** (`tshes` ཚེས་) divide the lunation by *angle*, not time: the first lunar day runs from exact new moon until the Moon-Sun elongation reaches 12°, and so on. See [[tibetan-lunar-phases]].
 - **Lunar mansions** (`rgyu skar` རྒྱུ་སྐར་; Skt. *nakṣatra*) are the 27 (or
-  28) divisions of the Moon's path; months take their Kālacakra names from the
-  mansion of the full moon (e.g. `sa ga` for [[tibetan-saga-dawa]]).
-- **Yogas** (`sbyor ba` སྦྱོར་བ་) are 27 periods derived from the sum of the
-  solar and lunar longitudes.
-- **Karaṇas** (`byed pa` བྱེད་པ་) are half-tithi units: seven "changing"
-  karaṇas cycle through the halves of the month, and four "stable" karaṇas
-  each occur once.
+  28) divisions of the Moon's path; months take their Kālacakra names from the mansion of the full moon (e.g. `sa ga` for [[tibetan-saga-dawa]]).
+- **Yogas** (`sbyor ba` སྦྱོར་བ་) are 27 periods derived from the sum of the solar and lunar longitudes.
+- **Karaṇas** (`byed pa` བྱེད་པ་) are half-tithi units: seven "changing" karaṇas cycle through the halves of the month, and four "stable" karaṇas each occur once.
 
-The five components together make each day's entry in the almanac (`lo tho`
-ལོ་ཐོ་) and feed the symbolic/auspiciousness calculations of Tibetan
-astrology (`rtsis` རྩིས་).
+The five components together make each day's entry in the almanac (`lo tho` ལོ་ཐོ་) and feed the symbolic/auspiciousness calculations of Tibetan astrology (`rtsis` རྩིས་).
 
 ## See Also
 

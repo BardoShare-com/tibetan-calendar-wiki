@@ -11,13 +11,7 @@ sources:
 
 # Guru Rinpoche Day
 
-The **10th lunar day** of each Tibetan month is **Guru Rinpoche Day**,
-dedicated to Padmasambhava, honored in Tibet as **Guru Rinpoche** (Tib.
-`gu ru rin po che` གུ་རུ་རིན་པོ་ཆེ་, "precious guru"; Ch. Liánhuāshēng
-dàshī 莲花生大士 for Padmasambhava). The 10th day of the waxing half is
-especially observed, and in the Nyingma (`rnying ma` རྙིང་མ་) tradition it
-carries particular weight as the day of `tshogs` ཚོགས་ feast offerings to the
-guru.
+The **10th lunar day** of each Tibetan month is **Guru Rinpoche Day**, dedicated to Padmasambhava, honored in Tibet as **Guru Rinpoche** (Tib. `gu ru rin po che` གུ་རུ་རིན་པོ་ཆེ་, "precious guru"; Ch. Liánhuāshēng dàshī 莲花生大士 for Padmasambhava). The 10th day of the waxing half is especially observed, and in the Nyingma (`rnying ma` རྙིང་མ་) tradition it carries particular weight as the day of `tshogs` ཚོགས་ feast offerings to the guru.
 
 ## Key Terms
 
@@ -31,9 +25,7 @@ guru.
 
 ## Placement in the Month
 
-Guru Rinpoche day falls on `tshes bcu pa` ཚེས་བཅུ་པ་, the 10th lunar day.
-Like the other monthly holy days it is a devotional convention of Tibetan
-Buddhist practice, not an astronomical feature of the calendar.
+Guru Rinpoche day falls on `tshes bcu pa` ཚེས་བཅུ་པ་, the 10th lunar day. Like the other monthly holy days it is a devotional convention of Tibetan Buddhist practice, not an astronomical feature of the calendar.
 
 ## See Also
 

@@ -11,12 +11,7 @@ sources:
 
 # Chökhor Düchen
 
-**Chökhor Düchen** (Tib. `chos 'khor dus chen` ཆོས་འཁོར་དུས་ཆེན་, "the great
-occasion of the Dharma wheel"; Ch. Zhuǎnfǎlún jié 转法轮节) is one of the
-four great Tibetan Buddhist festivals commemorating deeds of the Buddha
-Śākyamuni (`shAkya thub pa` ཤཱཀྱ་ཐུབ་པ་). It falls on the **4th day of the
-6th Tibetan month** and marks the Buddha's first teaching - the "first turning
-of the wheel of Dharma" (`chos kyi 'khor lo bskor ba` ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བ་)
+**Chökhor Düchen** (Tib. `chos 'khor dus chen` ཆོས་འཁོར་དུས་ཆེན་, "the great occasion of the Dharma wheel"; Ch. Zhuǎnfǎlún jié 转法轮节) is one of the four great Tibetan Buddhist festivals commemorating deeds of the Buddha Śākyamuni (`shAkya thub pa` ཤཱཀྱ་ཐུབ་པ་). It falls on the **4th day of the 6th Tibetan month** and marks the Buddha's first teaching - the "first turning of the wheel of Dharma" (`chos kyi 'khor lo bskor ba` ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བ་)
 - traditionally at the deer park of Sarnath near Vārāṇasī.
 
 ## Key Terms
@@ -29,11 +24,7 @@ of the wheel of Dharma" (`chos kyi 'khor lo bskor ba` ཆོས་ཀྱི་�
 
 ## Observance
 
-As with the other düchen days, Tibetan tradition regards merit as multiplied,
-and observances such as pilgrimage, offerings, and extra recitation are
-customary. The event it commemorates - the first sermon on the Four Noble
-Truths - is a matter of tradition and scripture rather than calendrical
-calculation.
+As with the other düchen days, Tibetan tradition regards merit as multiplied, and observances such as pilgrimage, offerings, and extra recitation are customary. The event it commemorates - the first sermon on the Four Noble Truths - is a matter of tradition and scripture rather than calendrical calculation.
 
 ## See Also
 
