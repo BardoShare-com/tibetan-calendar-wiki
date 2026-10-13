@@ -12,25 +12,13 @@ sources:
 
 # Tibetan-Chinese Calendar Relations
 
-The Tibetan calendar (Tib. `bod kyi rtsis` བོད་ཀྱི་རྩིས་; Ch. zànglì 藏历)
-is historically intertwined with the Chinese calendar (Ch. nónglì 农历 /
-yīnlì 阴历) but is **astronomically independent**. It borrows Chinese-style
-symbolism while computing months and days by Indian Kālacakra (`dus kyi 'khor
-lo` དུས་ཀྱི་འཁོར་ལོ་; Ch. shílún 时轮) rules.
+The Tibetan calendar (Tib. `bod kyi rtsis` བོད་ཀྱི་རྩིས་; Ch. zànglì 藏历) is historically intertwined with the Chinese calendar (Ch. nónglì 农历 / yīnlì 阴历) but is **astronomically independent**. It borrows Chinese-style symbolism while computing months and days by Indian Kālacakra (`dus kyi 'khor lo` དུས་ཀྱི་འཁོར་ལོ་; Ch. shílún 时轮) rules.
 
 ## What Is Borrowed
 
-- **Twelve animal names** - the same zodiac animals as the Chinese
-  shēngxiào 生肖 are used for years and (Chinese-style) month names.
-- **Five elements** - wood (`shing` ཤིང་), fire (`me` མེ་), earth (`sa`
-  ས་), iron (`lcags` ལྕགས་), water (`chu` ཆུ་) - pair with the animals in a
-  60-year cycle (`rab byung` རབ་བྱུང་; Ch. ràojiǒng 绕迥), paralleling the
-  Chinese gānzhī 干支 sexagenary cycle.
-- **Chinese-symbolic almanac content** - Tibetan almanacs include element and
-  day-quality calculations (`'byung rtsis` འབྱུང་རྩིས་, "element
-  calculation," i.e. the Chinese-derived `nag rtsis` ནག་རྩིས་ "black
-  calculation" tradition) alongside the Indian-derived `dkar rtsis` དཀར་རྩིས་
-  "white calculation" astronomy.
+- **Twelve animal names** - the same zodiac animals as the Chinese shēngxiào 生肖 are used for years and (Chinese-style) month names.
+- **Five elements** - wood (`shing` ཤིང་), fire (`me` མེ་), earth (`sa` ས་), iron (`lcags` ལྕགས་), water (`chu` ཆུ་) - pair with the animals in a 60-year cycle (`rab byung` རབ་བྱུང་; Ch. ràojiǒng 绕迥), paralleling the Chinese gānzhī 干支 sexagenary cycle.
+- **Chinese-symbolic almanac content** - Tibetan almanacs include element and day-quality calculations (`'byung rtsis` འབྱུང་རྩིས་, "element calculation," i.e. the Chinese-derived `nag rtsis` ནག་རྩིས་ "black calculation" tradition) alongside the Indian-derived `dkar rtsis` དཀར་རྩིས་ "white calculation" astronomy.
 
 ## What Is Different
 
@@ -44,12 +32,8 @@ lo` དུས་ཀྱི་འཁོར་ལོ་; Ch. shílún 时轮) rules
 
 ## Consequences
 
-- **[[tibetan-losar]] and Chinese New Year** usually fall close together -
-  often the same day, sometimes a day or a month apart - because each system
-  places its leap months and month boundaries independently. There is **no
-  fixed day-to-day mapping** between the two calendars.
-- The element-animal alignment is offset: a given Gregorian year can carry a
-  different animal-element name in each system.
+- **[[tibetan-losar]] and Chinese New Year** usually fall close together - often the same day, sometimes a day or a month apart - because each system places its leap months and month boundaries independently. There is **no fixed day-to-day mapping** between the two calendars.
+- The element-animal alignment is offset: a given Gregorian year can carry a different animal-element name in each system.
 
 ## Key Terms
 

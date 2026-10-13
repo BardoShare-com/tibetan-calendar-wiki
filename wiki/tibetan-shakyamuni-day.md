@@ -11,11 +11,7 @@ sources:
 
 # Śākyamuni Day
 
-The **30th lunar day** - the new-moon day at the end of each Tibetan month -
-is associated with the Buddha **Śākyamuni** (Tib. `shAkya thub pa`
-ཤཱཀྱ་ཐུབ་པ་, "the sage of the Śākyas"; Ch. Shìjiāmóuní 释迦牟尼). It is the
-monthly holy day dedicated to the historical Buddha and, like the full-moon
-15th, is a customary day for vows, purification, and extra practice.
+The **30th lunar day** - the new-moon day at the end of each Tibetan month - is associated with the Buddha **Śākyamuni** (Tib. `shAkya thub pa` ཤཱཀྱ་ཐུབ་པ་, "the sage of the Śākyas"; Ch. Shìjiāmóuní 释迦牟尼). It is the monthly holy day dedicated to the historical Buddha and, like the full-moon 15th, is a customary day for vows, purification, and extra practice.
 
 ## Key Terms
 
@@ -27,12 +23,7 @@ monthly holy day dedicated to the historical Buddha and, like the full-moon
 
 ## Placement in the Month
 
-Śākyamuni day falls on `tshes sum cu` ཚེས་སུམ་ཅུ་, the 30th lunar day,
-closing the monthly cycle of holy days that includes the 8th
-([[tibetan-medicine-buddha-day]]), 10th ([[tibetan-guru-rinpoche-day]]), 15th
-(full moon; Amitābha, ` 'od dpag med` འོད་དཔག་མེད་, in some traditions), and
-25th ([[tibetan-dakini-day]]). These are devotional conventions, not features
-of the calendar computation.
+Śākyamuni day falls on `tshes sum cu` ཚེས་སུམ་ཅུ་, the 30th lunar day, closing the monthly cycle of holy days that includes the 8th ([[tibetan-medicine-buddha-day]]), 10th ([[tibetan-guru-rinpoche-day]]), 15th (full moon; Amitābha, ` 'od dpag med` འོད་དཔག་མེད་, in some traditions), and 25th ([[tibetan-dakini-day]]). These are devotional conventions, not features of the calendar computation.
 
 ## See Also
 

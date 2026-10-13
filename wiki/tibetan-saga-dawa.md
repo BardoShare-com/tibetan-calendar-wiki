@@ -11,18 +11,9 @@ sources:
 
 # Saga Dawa and Saga Dawa Düchen
 
-**Saga Dawa** (Tib. `sa ga zla ba` ས་ག་ཟླ་བ, "the month of the Saga
-[mansion]"; Ch. Sàgā dáwǎ 萨嘎达瓦) is the fourth month of the Tibetan
-calendar, named after the lunar mansion (`rgyu skar` རྒྱུ་སྐར་; Skt.
-*nakṣatra*) associated with its full moon. It is regarded as the holiest
-month of the Tibetan year.
+**Saga Dawa** (Tib. `sa ga zla ba` ས་ག་ཟླ་བ, "the month of the Saga [mansion]"; Ch. Sàgā dáwǎ 萨嘎达瓦) is the fourth month of the Tibetan calendar, named after the lunar mansion (`rgyu skar` རྒྱུ་སྐར་; Skt. *nakṣatra*) associated with its full moon. It is regarded as the holiest month of the Tibetan year.
 
-**Saga Dawa Düchen** (Tib. `sa ga zla ba'i dus chen` ས་ག་ཟླ་བའི་དུས་ཆེན་,
-"the great occasion of Saga Dawa"; `dus chen` དུས་ཆེན་ = "great time/
-festival") is the 15th day - the full moon - of that month. It commemorates
-the Buddha Śākyamuni's enlightenment and parinirvāṇa (some traditions also
-associate his birth with this month; Tibetan sources generally place the birth
-commemoration on the 7th day of the month).
+**Saga Dawa Düchen** (Tib. `sa ga zla ba'i dus chen` ས་ག་ཟླ་བའི་དུས་ཆེན་, "the great occasion of Saga Dawa"; `dus chen` དུས་ཆེན་ = "great time/ festival") is the 15th day - the full moon - of that month. It commemorates the Buddha Śākyamuni's enlightenment and parinirvāṇa (some traditions also associate his birth with this month; Tibetan sources generally place the birth commemoration on the 7th day of the month).
 
 ## Key Terms
 
@@ -36,12 +27,7 @@ commemoration on the 7th day of the month).
 
 ## Observance
 
-Tibetan Buddhist tradition holds that merit is multiplied during Saga Dawa,
-especially on the Düchen. Common traditional observances include refraining
-from meat, circumambulating sacred sites (notably around Mount Kailash,
-`gangs rin po che` གངས་རིན་པོ་ཆེ་, where pilgrims raise the Tarboche
-flagpole), giving alms, and performing extra practice. These are described in
-the sources as religious customs rather than calendrical rules.
+Tibetan Buddhist tradition holds that merit is multiplied during Saga Dawa, especially on the Düchen. Common traditional observances include refraining from meat, circumambulating sacred sites (notably around Mount Kailash, `gangs rin po che` གངས་རིན་པོ་ཆེ་, where pilgrims raise the Tarboche flagpole), giving alms, and performing extra practice. These are described in the sources as religious customs rather than calendrical rules.
 
 ## See Also
 

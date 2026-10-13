@@ -11,10 +11,7 @@ sources:
 
 # Medicine Buddha Day
 
-The **8th lunar day** of each Tibetan month is associated with the **Medicine
-Buddha** (Tib. `sman bla` སྨན་བླ་, "supreme physician"; full epithet `sman
-gyi bla` སྨན་གྱི་བླ་; Skt. Bhaiṣajyaguru; Ch. Yàoshī fó 药师佛) and is also
-linked in some traditions with Tārā (`sgrol ma` སྒྲོལ་མ་; Ch. Duōmǔ 度母).
+The **8th lunar day** of each Tibetan month is associated with the **Medicine Buddha** (Tib. `sman bla` སྨན་བླ་, "supreme physician"; full epithet `sman gyi bla` སྨན་གྱི་བླ་; Skt. Bhaiṣajyaguru; Ch. Yàoshī fó 药师佛) and is also linked in some traditions with Tārā (`sgrol ma` སྒྲོལ་མ་; Ch. Duōmǔ 度母).
 
 ## Key Terms
 
@@ -26,11 +23,7 @@ linked in some traditions with Tārā (`sgrol ma` སྒྲོལ་མ་; Ch. 
 
 ## Placement in the Month
 
-The 8th day (`tshes brgyad pa` ཚེས་བརྒྱད་པ་) is one of the recurring holy
-days printed in Tibetan calendars, alongside the 10th, 15th, 25th, and 30th.
-Its association with healing practice - Medicine Buddha pūjās and related
-rites - is a matter of religious tradition rather than a rule of the calendar
-computation itself.
+The 8th day (`tshes brgyad pa` ཚེས་བརྒྱད་པ་) is one of the recurring holy days printed in Tibetan calendars, alongside the 10th, 15th, 25th, and 30th. Its association with healing practice - Medicine Buddha pūjās and related rites - is a matter of religious tradition rather than a rule of the calendar computation itself.
 
 ## See Also
 

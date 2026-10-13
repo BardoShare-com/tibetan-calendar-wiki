@@ -11,10 +11,7 @@ sources:
 
 # Tibetan Lunar Phases and Days
 
-The Tibetan calendar distinguishes three kinds of "day": the **zodiac day**
-(the Sun's passage through 1/360 of the zodiac), the **natural day** (`nyin
-zhag` ཉིན་ཞག་, mean daybreak to mean daybreak), and the **lunar day**
-(`tshes` ཚེས་), which tracks the Moon's phase angle.
+The Tibetan calendar distinguishes three kinds of "day": the **zodiac day** (the Sun's passage through 1/360 of the zodiac), the **natural day** (`nyin zhag` ཉིན་ཞག་, mean daybreak to mean daybreak), and the **lunar day** (`tshes` ཚེས་), which tracks the Moon's phase angle.
 
 ## Key Terms
 
@@ -30,16 +27,9 @@ zhag` ཉིན་ཞག་, mean daybreak to mean daybreak), and the **lunar da
 
 ## How Lunar Days Work
 
-- There are **30 lunar days** per month, but the division is by **angular
-  elongation**: the first `tshes` runs from exact new moon until the
-  Moon-Sun angle reaches 12°, the second until 24°, and so on. A `tshes`
-  therefore varies in length (roughly 19-26 hours).
-- The civil month, by contrast, contains 29 or 30 whole **natural days**
-  (`nyin zhag` ཉིན་ཞག་).
-- To fit 30 `tshes` numbers onto 29-30 civil dates, dates can be **omitted**
-  (`chad` ཆད་ - e.g., a Monday `tshes` 1 followed by a Tuesday `tshes` 3) or
-  **repeated** (`lhag` ལྷག་ - two consecutive civil days with the same
-  `tshes`).
+- There are **30 lunar days** per month, but the division is by **angular elongation**: the first `tshes` runs from exact new moon until the Moon-Sun angle reaches 12°, the second until 24°, and so on. A `tshes` therefore varies in length (roughly 19-26 hours).
+- The civil month, by contrast, contains 29 or 30 whole **natural days** (`nyin zhag` ཉིན་ཞག་).
+- To fit 30 `tshes` numbers onto 29-30 civil dates, dates can be **omitted** (`chad` ཆད་ - e.g., a Monday `tshes` 1 followed by a Tuesday `tshes` 3) or **repeated** (`lhag` ལྷག་ - two consecutive civil days with the same `tshes`).
 
 ## Holy Days by Lunar Day
 
@@ -51,8 +41,7 @@ Recurring monthly observances are tied to `tshes` numbers:
 - 25th - [[tibetan-dakini-day]] (`mkha' 'gro ma` མཁའ་འགྲོ་མ་)
 - 30th - [[tibetan-shakyamuni-day]] (`shAkya thub pa` ཤཱཀྱ་ཐུབ་པ་)
 
-These associations are devotional conventions of Tibetan Buddhist tradition,
-not astronomical features.
+These associations are devotional conventions of Tibetan Buddhist tradition, not astronomical features.
 
 ## See Also
 
